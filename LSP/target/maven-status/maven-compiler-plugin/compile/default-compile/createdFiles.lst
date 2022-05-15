@@ -1,0 +1,4 @@
+com\design\patterns\lsp\PowerUser.class
+com\design\patterns\lsp\UserAccess.class
+com\design\patterns\lsp\DatabaseGateway.class
+com\design\patterns\lsp\GenericUser.class
